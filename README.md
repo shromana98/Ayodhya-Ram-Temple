@@ -1,8 +1,6 @@
 # Ayodhya-Ram-Temple
 
-# 🎯Objective: 
-
-"🏰 Ayodhya Ram Temple Power BI Project"
+# 🎯Objective: "🏰 Ayodhya Ram Temple Power BI Project"
 🕵️‍♂️Dived into the numbers and discover the stories behind the construction process, timelines, and more. 🗓️
 The dashboard shows the progress, funding, and deities of the Ram temple project. The Ram Temple is a historic and religious site that is being rebuilt after decades of legal disputes and controversies. You can see how many days and phases have been completed, and how much money has been donated by different sources. You can also see the names and descriptions of the main deities worshipped at the temple ✨
 I would like to express my sincere gratitude to Nitish Kumar for providing the dataset .
